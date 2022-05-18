@@ -1,7 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
-
+#include <login_reg.cpp>
+#include <User.cpp>
+///Johnathn Warren///
 
 using namespace std;
 
